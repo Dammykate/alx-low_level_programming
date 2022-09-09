@@ -8,7 +8,7 @@ int main(void)
 {
 	int a = '0';
 	int b = 'a';
-	
+
 	while (a <= '9')
 	{
 		putchar(a);
@@ -25,5 +25,3 @@ int main(void)
 
 	return (0);
 }
-
-
