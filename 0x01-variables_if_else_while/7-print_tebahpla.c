@@ -1,13 +1,13 @@
 #include <stdio.h>
 /**
-* main - main function
-*
-* Return: end program
-*/
+ * main - main function
+ *
+ * Return: end program
+ */
 int main(void)
 {
 	char n;
-	
+
 	for (n = 'z'; n >= 'a'; --n)
 		putchar(n);
 
