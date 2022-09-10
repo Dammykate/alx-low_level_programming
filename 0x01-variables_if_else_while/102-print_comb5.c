@@ -2,7 +2,7 @@
 /**
  * main - main function
  *
- *  Return: end program
+ * Return: end program
  */
 int main(void)
 {
@@ -47,5 +47,3 @@ int main(void)
 
 	return (0);
 }
-
-
