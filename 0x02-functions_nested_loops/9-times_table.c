@@ -9,7 +9,7 @@ void times_table(void)
 	int col = 0;
 	int row = 0;
 	int units = 0;
-	int tens = 0
+	int tens = 0;
 	int n = 0;
 
 	while (row < 10)
@@ -26,7 +26,7 @@ void times_table(void)
 			}
 			_putchar(units + '0');
 			if (col < 9)
-				putchar(44);
+				_putchar(44);
 			col++;
 		}
 		col = 0;
