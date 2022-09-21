@@ -5,13 +5,13 @@
  * @dest: string to append to
  * @src: string to add
  *
- * Return: a poiner to the resulting strings
+ * Return: a pointer to the resulting string
  */
 
 char *_strcat(char *dest, char *src)
 {
-	int x = 0
-	int y = 0	
+	int x = 0;
+	int y = 0;	
 
 	while (dest[x])
 	{
