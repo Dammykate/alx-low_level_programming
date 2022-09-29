@@ -37,5 +37,5 @@ int is_palindrome(char *s)
 	int length;
 
 	length = _strlen_recursion(s);
-	length = _strlen_recursion(s);
+	return (review_palindrome(s, length - 1));
 }
