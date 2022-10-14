@@ -29,7 +29,7 @@ int op_sub(int a, int b)
  *
  * @a: Parameter 1
  * @b: Parameter 2
- * 
+ *
  * Return: Return the result of the operation
  */
 int op_mul(int a, int b)
